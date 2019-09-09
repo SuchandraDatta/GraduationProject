@@ -1,7 +1,7 @@
 **GRADUATION PROJECT**
 
 A system has been developd which detects the face of individuals from webcam in real-time and predicts the emotion of the individual using
-CNN or convolutional neural networks. Such systems find applications in advertisement board where the current emotion of the [erson would be used
+CNN or convolutional neural networks. Such systems find applications in advertisement board where the current emotion of the person would be used
 to display advertisements on-screen.
 
 OBJECTIVES
