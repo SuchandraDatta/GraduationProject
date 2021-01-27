@@ -1,17 +1,8 @@
 **GRADUATION PROJECT**
 
-A system has been developd which detects the face of individuals from webcam in real-time and predicts the emotion of the individual using
-CNN or convolutional neural networks. Such systems find applications in advertisement board where the current emotion of the person would be used
-to display advertisements on-screen.
+A system has been developed which detects the face of individuals from webcam and predicts the emotion of the individual using CNN or convolutional neural networks. This work is published as a paper in IJEAT. The pdf of the paper is included in the repo. This can be used on ad boards to show advertisements based on current mood of a person.
 
-OBJECTIVES
 
-•	To understand the basics of machine learning based computing, to compare the efficiency of different classification algorithms in order 
-to select the one that best fits the purpose.
-
-•	To understand how images are represented how to detect key feature points and train classifiers accordingly.
-
-•	To understand how current algorithms work and try to adjust the model parameters to get better results
 
 Face detection is done using Python OpenCV which uses HAAR features utilising the algorithm by Viola Jones which detects objects using a 
 cascade of weak classifiers. For emotion detection, a CNN model is built and trained. 
